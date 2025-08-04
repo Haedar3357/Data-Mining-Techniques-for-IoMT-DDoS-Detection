@@ -32,6 +32,14 @@ This research project explores **data mining and machine learning techniques** f
   - 46 numeric features
   - No missing or categorical values
 
+### Dataset Access
+
+Due to the large size of the dataset, the original data files are hosted externally on Google Drive.
+
+You can access and download the dataset here:
+
+[Google Drive - IoMT Dataset 2024 (MQTT-DDoS-Connect_Flood subset)](https://drive.google.com/drive/folders/1xkctQZmyRwjY5JZ_vyoWUE8MleQbERGf?usp=sharing)
+
 ---
 
 ##  Project Workflow
@@ -101,9 +109,6 @@ Both were trained and validated using:
 - Evaluated by comparing labels post-cluster matching.
 
 **Accuracy**: `0.998`  
-**Confusion Matrix**:
-[[192394 338]
-[ 393 172643]]
 
 
 
